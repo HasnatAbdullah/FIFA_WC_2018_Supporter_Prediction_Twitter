@@ -55,6 +55,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-We would like to thank the authors of the original research paper and the contributors to the dataset used in this project[Predicting Fans’ FIFA World Cup Team Preference from Tweets](https://link.springer.com/chapter/10.1007/978-3-030-52856-0_22)   . The relevant citations can be found in the research paper file [`Project Report of G-17.pdf`](Project Report of G-17.pdf).
+We would like to thank the authors of the original research paper and the contributors to the dataset used in this project[Predicting Fans’ FIFA World Cup Team Preference from Tweets](https://link.springer.com/chapter/10.1007/978-3-030-52856-0_22)   . The relevant citations can be found in the research paper file ([Project Report of G-17.pdf](https://github.com/HasnatAbdullah/FIFA_WC_2018_Supporter_Prediction_Twitter/blob/main/Project%20Report%20of%20G-17.pdf).
 
-For a detailed overview of the project, please refer to the [Project Report of G-17.pdf](Project Report of G-17.pdf).
+For a detailed overview of the project, please refer to the ([Project Report of G-17.pdf)](https://github.com/HasnatAbdullah/FIFA_WC_2018_Supporter_Prediction_Twitter/blob/main/Project%20Report%20of%20G-17.pdf).
