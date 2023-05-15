@@ -43,7 +43,7 @@ jupyter notebook The_FIFA_World_Cup_2018_Supporter_Prediction_Based_on_Twitter.i
 
 ## Data
 
-The dataset used for this project is available in the `FIFA_Supporter` folder. It includes tweets collected during the FIFA World Cup 2018, along with corresponding supporter preferences.
+The dataset used for this project is available in the [`FIFA_Supporter`](https://drive.google.com/drive/folders/1AXPjyEZuoHrrx2zIqFas-Hv_IOLgqvQH?usp=sharing) folder. It includes tweets collected during the FIFA World Cup 2018, along with corresponding supporter preferences.
 
 ## Contributing
 
@@ -55,6 +55,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-We would like to thank the authors of the original research paper and the contributors to the dataset used in this project[Predicting Fans’ FIFA World Cup Team Preference from Tweets](https://link.springer.com/chapter/10.1007/978-3-030-52856-0_22)   . The relevant citations can be found in the research paper file ([Project Report of G-17.pdf](https://github.com/HasnatAbdullah/FIFA_WC_2018_Supporter_Prediction_Twitter/blob/main/Project%20Report%20of%20G-17.pdf).
+We would like to thank the authors of the original research paper and the contributors to the dataset used in this project [Predicting Fans’ FIFA World Cup Team Preference from Tweets](https://link.springer.com/chapter/10.1007/978-3-030-52856-0_22)   . The relevant citations can be found in the research paper file [Project Report of G-17.pdf](https://github.com/HasnatAbdullah/FIFA_WC_2018_Supporter_Prediction_Twitter/blob/main/Project%20Report%20of%20G-17.pdf).
 
-For a detailed overview of the project, please refer to the ([Project Report of G-17.pdf)](https://github.com/HasnatAbdullah/FIFA_WC_2018_Supporter_Prediction_Twitter/blob/main/Project%20Report%20of%20G-17.pdf).
+For a detailed overview of the project, please refer to the [Project Report of G-17.pdf](https://github.com/HasnatAbdullah/FIFA_WC_2018_Supporter_Prediction_Twitter/blob/main/Project%20Report%20of%20G-17.pdf).
